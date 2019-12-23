@@ -1,2 +1,4 @@
 0000000000000000000000000000000000000000 9ec2e4bda075af15a4ed26efbdb44e4ba81e0975 snickerton <tonyzhu3141@gmail.com> 1577111302 -0600	commit (initial): init commit with vim, bash, and xresources
 9ec2e4bda075af15a4ed26efbdb44e4ba81e0975 40a04538b9c79aa01795f65fa2aca332fa593049 snickerton <tonyzhu3141@gmail.com> 1577111778 -0600	commit: think .config/ worked this time?
+40a04538b9c79aa01795f65fa2aca332fa593049 e9a4986fd104e5382ac16cb944c2528b83d60528 snickerton <tonyzhu3141@gmail.com> 1577112817 -0600	commit: bash script test + workspace index fix
+e9a4986fd104e5382ac16cb944c2528b83d60528 68f23e161da5cb5e7819fbb9ad41f5cd7bd73c6a snickerton <tonyzhu3141@gmail.com> 1577112942 -0600	commit: added bin scripts
