@@ -1,0 +1,116 @@
+Starting Jedi Python language engine.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+##########Linting Output - pylint##########
+************* Module main
+17,9,error,undefined-variable:Undefined variable 'spells'
+
+-----------------------------------
+Your code has been rated at 6.88/10
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module loadJson
+9,18,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module loadJson
+4,11,error,undefined-variable:Undefined variable 'requests'
+8,4,error,undefined-variable:Undefined variable 'json'
+
+------------------------------------
+Your code has been rated at -6.67/10
+
+##########Linting Output - pylint##########
+
+---------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: -6.67/10, +16.67)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 6.88/10, +3.12)
+
+##########Linting Output - pylint##########
+************* Module main
+10,17,error,undefined-variable:Undefined variable 'j'
+
+-------------------------------------------------------------------
+Your code has been rated at 7.50/10 (previous run: 10.00/10, -2.50)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.50/10, +2.50)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module main
+29,20,error,no-value-for-parameter:No value for argument 'b' in method call
+29,71,error,no-value-for-parameter:No value for argument 'b' in method call
+
+-------------------------------------------------------------------
+Your code has been rated at 5.24/10 (previous run: 10.00/10, -4.76)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 5.24/10, +4.76)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

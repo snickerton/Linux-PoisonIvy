@@ -1,0 +1,24 @@
+2019/10/14-17:50:18.686 7399 Reusing MANIFEST /home/snickerton/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/14-17:50:18.686 7399 Recovering log #18
+2019/10/14-17:50:18.705 7399 Reusing old log /home/snickerton/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000018.log 
+2019/10/14-17:55:13.722 226a Level-0 table #22: started
+2019/10/14-17:55:13.771 226a Level-0 table #22: 1355260 bytes OK
+2019/10/14-17:55:13.774 226a Delete type=0 #18
+2019/10/14-19:56:54.834 226a Level-0 table #24: started
+2019/10/14-19:56:55.580 226a Level-0 table #24: 1436626 bytes OK
+2019/10/14-19:56:55.586 226a Delete type=0 #21
+2019/10/16-17:50:05.552 226a Level-0 table #26: started
+2019/10/16-17:50:05.624 226a Level-0 table #26: 1237019 bytes OK
+2019/10/16-17:50:05.627 226a Delete type=0 #23
+2019/10/16-17:50:05.628 226a Compacting 4@0 + 1@1 files
+2019/10/16-17:50:05.688 226a Generated table #27@0: 8 keys, 618668 bytes
+2019/10/16-17:50:05.688 226a Compacted 4@0 + 1@1 files => 618668 bytes
+2019/10/16-17:50:05.690 226a compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/16-17:50:05.691 226a Delete type=2 #24
+2019/10/16-17:50:05.691 226a Delete type=2 #17
+2019/10/16-17:50:05.691 226a Delete type=2 #22
+2019/10/16-17:50:05.691 226a Delete type=2 #19
+2019/10/16-17:50:05.691 226a Delete type=2 #26
+2019/10/16-18:10:22.692 226a Level-0 table #29: started
+2019/10/16-18:10:22.711 226a Level-0 table #29: 1177230 bytes OK
+2019/10/16-18:10:22.714 226a Delete type=0 #25

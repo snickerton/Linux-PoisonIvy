@@ -1,0 +1,218 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module main
+13,15,error,syntax-error:invalid syntax (<unknown>, line 13)
+##########Linting Output - pylint##########
+************* Module main
+16,8,warning,unused-variable:Unused variable 'spells'
+22,9,error,undefined-variable:Undefined variable 'spells'
+23,4,error,undefined-variable:Undefined variable 'names'
+25,9,error,undefined-variable:Undefined variable 'names'
+28,8,error,undefined-variable:Undefined variable 'firstWord'
+29,8,error,undefined-variable:Undefined variable 'secondWord'
+31,8,error,undefined-variable:Undefined variable 'secondWord'
+35,10,error,undefined-variable:Undefined variable 'firstWord'
+35,42,error,undefined-variable:Undefined variable 'firstWord'
+35,65,error,undefined-variable:Undefined variable 'secondWord'
+35,98,error,undefined-variable:Undefined variable 'secondWord'
+
+----------------------------------------------------------------------
+Your code has been rated at -11.25/10 (previous run: 10.00/10, -21.25)
+
+##########Linting Output - pylint##########
+************* Module main
+21,9,error,undefined-variable:Undefined variable 'spells'
+22,4,error,undefined-variable:Undefined variable 'names'
+24,9,error,undefined-variable:Undefined variable 'names'
+27,8,error,undefined-variable:Undefined variable 'firstWord'
+28,8,error,undefined-variable:Undefined variable 'secondWord'
+30,8,error,undefined-variable:Undefined variable 'secondWord'
+34,10,error,undefined-variable:Undefined variable 'firstWord'
+34,42,error,undefined-variable:Undefined variable 'firstWord'
+34,65,error,undefined-variable:Undefined variable 'secondWord'
+34,98,error,undefined-variable:Undefined variable 'secondWord'
+
+----------------------------------------------------------------------
+Your code has been rated at -11.74/10 (previous run: -11.25/10, -0.49)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+************* Module main
+33,148,error,syntax-error:unmatched ')' (<unknown>, line 33)
+##########Linting Output - pylint##########
+************* Module main
+32,148,error,syntax-error:unmatched ')' (<unknown>, line 32)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+32,148,error,syntax-error:unmatched ')' (<unknown>, line 32)
+##########Linting Output - pylint##########
+************* Module main
+32,148,error,syntax-error:unmatched ')' (<unknown>, line 32)
+##########Linting Output - pylint##########
+************* Module main
+32,148,error,syntax-error:unmatched ')' (<unknown>, line 32)
+##########Linting Output - pylint##########
+************* Module main
+19,17,error,undefined-variable:Undefined variable 'spells'
+31,4,error,no-method-argument:Method has no argument
+32,24,error,undefined-variable:Undefined variable 'self'
+32,61,error,undefined-variable:Undefined variable 'self'
+32,89,error,undefined-variable:Undefined variable 'self'
+32,127,error,undefined-variable:Undefined variable 'self'
+33,8,error,undefined-variable:Undefined variable 'document'
+
+---------------------------------------------------------------------
+Your code has been rated at -4.58/10 (previous run: -11.74/10, +7.16)
+
+##########Linting Output - pylint##########
+************* Module main
+19,17,error,undefined-variable:Undefined variable 'spells'
+31,4,error,no-method-argument:Method has no argument
+32,24,error,undefined-variable:Undefined variable 'self'
+32,61,error,undefined-variable:Undefined variable 'self'
+32,89,error,undefined-variable:Undefined variable 'self'
+32,127,error,undefined-variable:Undefined variable 'self'
+33,8,error,undefined-variable:Undefined variable 'document'
+
+--------------------------------------------------------------------
+Your code has been rated at -4.58/10 (previous run: -4.58/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+31,4,error,no-method-argument:Method has no argument
+32,24,error,undefined-variable:Undefined variable 'self'
+32,61,error,undefined-variable:Undefined variable 'self'
+32,89,error,undefined-variable:Undefined variable 'self'
+32,127,error,undefined-variable:Undefined variable 'self'
+33,8,error,undefined-variable:Undefined variable 'document'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -4.58/10, +2.08)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+29,4,error,no-method-argument:Method has no argument
+30,24,error,undefined-variable:Undefined variable 'self'
+30,61,error,undefined-variable:Undefined variable 'self'
+30,89,error,undefined-variable:Undefined variable 'self'
+30,127,error,undefined-variable:Undefined variable 'self'
+31,8,error,undefined-variable:Undefined variable 'document'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module main
+30,4,error,no-method-argument:Method has no argument
+31,24,error,undefined-variable:Undefined variable 'self'
+31,61,error,undefined-variable:Undefined variable 'self'
+31,89,error,undefined-variable:Undefined variable 'self'
+31,127,error,undefined-variable:Undefined variable 'self'
+32,8,error,undefined-variable:Undefined variable 'document'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+31,8,error,undefined-variable:Undefined variable 'document'
+
+--------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: -2.50/10, +10.42)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+29,8,error,undefined-variable:Undefined variable 'document'
+
+------------------------------------------------------------------
+Your code has been rated at 7.73/10 (previous run: 7.92/10, -0.19)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+28,8,warning,unused-variable:Unused variable 'generatedName'
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 7.73/10, +1.80)
+
+##########Linting Output - pylint##########
+************* Module main
+32,0,error,syntax-error:unexpected unindent (<unknown>, line 32)
+##########Linting Output - pylint##########
+************* Module main
+31,27,error,syntax-error:invalid syntax (<unknown>, line 31)
+##########Linting Output - pylint##########
+************* Module main
+34,0,error,syntax-error:expected an indented block (<unknown>, line 34)
+##########Linting Output - pylint##########
+************* Module main
+38,0,warning,unnecessary-semicolon:Unnecessary semicolon
+29,8,warning,unused-variable:Unused variable 'generatedName'
+32,8,warning,unused-variable:Unused variable 'swF'
+
+------------------------------------------------------------------
+Your code has been rated at 8.93/10 (previous run: 9.52/10, -0.60)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module main
+38,0,warning,unnecessary-semicolon:Unnecessary semicolon
+29,8,warning,unused-variable:Unused variable 'generatedName'
+32,8,warning,unused-variable:Unused variable 'swF'
+
+------------------------------------------------------------------
+Your code has been rated at 8.93/10 (previous run: 8.93/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module main
+39,0,warning,unnecessary-semicolon:Unnecessary semicolon
+29,8,warning,unused-variable:Unused variable 'generatedName'
+
+------------------------------------------------------------------
+Your code has been rated at 9.33/10 (previous run: 8.93/10, +0.40)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

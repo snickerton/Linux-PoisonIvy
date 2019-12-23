@@ -1,0 +1,93 @@
+urxvt.scrollBar: false
+!urxvt.transparent: true
+!urxvt.shading: 20
+
+!urxvt.tintColor: #172A47
+!urxvt.inheritPixmap: true
+urxvt.depth: 32
+
+URxvt.keysym.Control-Shift-V: eval:paste_clipboard
+URxvt.keysym.Control-Shift-C: eval:selection_to_clipboard
+
+!urxvt.keysym.Control-Shift-V: perl:clipboard:paste
+!urxvt.keysym.Control-Shift-C: perl:clipboard:copy
+
+urxvt.iso14755: False
+
+urxvt.perl-ext-common: default,clipboard
+
+Xcursor.size: 16
+
+!Fonts
+
+urxvt.font: xft:Ubuntu Mono:pixelsize=17,style=regular
+urxvt.boldFont: xft:Ubuntu Mono:pixelsize=17,style=bold
+urxvt.letterSpace: -1
+
+!urxvt.font: xft:Inconsolata:pixelsize=14,style=regular
+!urxvt.boldFont: xft:Inconsolata:pixelsize=13,style=bold
+!urxvt.letterSpace: -1
+
+
+Xft.dpi: 96	
+Xft.antialias: true
+!Xft.rbga: none
+Xft.hintstyle: hintfull
+Xft.hinting: true
+
+*.internalBorder: 13
+
+
+! special
+!urxvt.foreground:   #placeholder
+!doesnt work because urxvt.transparent and tintcolor
+
+! special
+!*.foreground:   #70ef6e
+!*.foreground: #99ddff
+!*.foreground: #8aeff4
+
+!HOLY SHIT IT WORKS
+!*.background:   [75]#172a47
+!*.background: [75]#0b2545
+!*.cursorColor:  #8aeff4
+
+
+
+! special
+*.foreground:   #e6e1dc
+*.background:   [75]#282932
+*.cursorColor:  #e6e1dc
+
+! black
+*.color0:       #000000
+*.color8:       #323232
+
+! red
+*.color1:       #c86325
+*.color9:       #d69973
+
+! green
+*.color2:       #519f50
+*.color10:      #83d182
+
+! yellow
+*.color3:       #ffd24a
+*.color11:      #ffff7c
+
+! blue
+*.color4:       #6d9cbe
+*.color12:      #9fcef0
+
+! magenta
+*.color5:       #d0d0ff
+*.color13:      #ffffff
+
+! cyan
+*.color6:       #6e9cbe
+*.color14:      #a0cef0
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff
+

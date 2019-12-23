@@ -1,0 +1,4 @@
+[2019-12-20 19:04:41.620] [sharedprocess] [info] main {"machineId":"f82d17830a257e134dd710e677e39d2d0442f7abbce9e69b084c73ad5f279d30","windowId":2}
+[2019-12-20 19:04:42.229] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/snickerton/.vscode/extensions/ms-vscode.cpptools-0.21.0
+[2019-12-20 19:04:42.265] [sharedprocess] [info] Deleted from disk ms-python.python /home/snickerton/.vscode/extensions/ms-python.python-2019.1.0
+[2019-12-20 19:05:21.599] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,2441 @@
+[2019-05-02 23:13:14.753] [renderer1] [info] no standard startup: not just one window
+[2019-05-02 23:14:04.640] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:08.485] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:10.311] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:15.240] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:16.249] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:17.734] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:19.306] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:21.040] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:22.298] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:24.998] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:29.015] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:30.585] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:31.745] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:33.581] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:38.878] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:40.263] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:14:41.302] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:02.929] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:04.089] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:09.976] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:16.134] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:17.655] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:19.769] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:28.978] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:32.054] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:33.068] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:34.387] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:15:36.653] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:16:27.655] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:16:29.161] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:16:55.779] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:16:56.856] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:17.512] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:22.144] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:23.783] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:25.107] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:31.014] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:33.090] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:34.551] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:36.130] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:37.825] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:39.428] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:40.737] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:41.762] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:58.117] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:17:59.560] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:02.300] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:03.685] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:05.229] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:10.032] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:11.813] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:24.945] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:26.164] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:41.227] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:42.541] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:44.202] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:18:46.045] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:11.530] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:12.984] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:15.078] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:16.124] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:17.825] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:20.828] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:37.099] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:41.915] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:44.045] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:45.934] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:46.951] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:48.783] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:50.133] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:19:52.321] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:09.984] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:11.666] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:15.538] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:17.078] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:19.229] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:22.086] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:39.199] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:40.888] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:42.412] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:43.859] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:46.851] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:48.117] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:49.590] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:51.038] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:53.220] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:54.581] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:55.631] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:20:57.078] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:03.118] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:04.360] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:05.541] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:07.970] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:09.107] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:10.171] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:11.992] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:13.021] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:14.347] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:15.365] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:16.902] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:45.628] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:47.160] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:48.921] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:50.700] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:51.821] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:53.256] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:54.740] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:55.904] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:57.137] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:58.525] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:21:59.582] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:01.327] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:03.082] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:09.822] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:10.911] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:11.924] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:13.313] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:15.582] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:16.744] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:29.811] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:32.223] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:33.249] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:34.659] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:22:36.473] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:16.279] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:17.297] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:20.858] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:22.678] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:24.105] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:25.181] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:26.732] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:28.387] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:30.130] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:32.901] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:34.199] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:35.270] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:36.827] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:38.248] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:41.460] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:43.788] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:46.258] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:23:53.337] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:01.908] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:03.074] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:04.147] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:05.848] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:07.655] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:13.581] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:14.725] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:16.151] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:17.877] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:19.001] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:24.946] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:26.908] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:27.981] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:29.929] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:39.284] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:41.613] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:42.991] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:45.402] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:46.424] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:48.299] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:24:49.424] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:25:18.844] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:25:20.071] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:25:22.779] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:25:24.156] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:05.028] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:07.038] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:22.412] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:23.682] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:25.275] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:27.620] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:28.819] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:30.088] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:47.854] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:49.444] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:51.692] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:53.398] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:54.539] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:56.180] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:26:58.778] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:02.904] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:04.305] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:10.351] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:15.565] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:19.274] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:20.997] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:23.655] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:25.671] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:26.817] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:28.483] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:29.861] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:31.144] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:34.436] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:36.252] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:27:38.187] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:35.029] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:36.439] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:38.568] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:41.362] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:42.953] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:49.733] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:51.837] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:52.886] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:54.166] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:28:55.387] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:02.324] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:03.439] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:05.092] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:08.454] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:09.770] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:16.184] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:18.740] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:22.541] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:26.533] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:27.815] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:28.982] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:31.236] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:32.632] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:34.788] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:37.261] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:39.283] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:44.999] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:46.402] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:48.522] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:51.001] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:52.934] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:54.626] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:56.162] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:29:57.225] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:08.210] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:10.526] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:11.686] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:14.132] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:15.311] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:16.347] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:17.883] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:18.979] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:20.060] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:21.338] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:24.374] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:34.032] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:35.397] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:37.025] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:39.221] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:40.485] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:42.339] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:44.189] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:45.967] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:49.676] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:52.233] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:53.235] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:30:54.666] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:07.822] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:09.199] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:10.970] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:19.011] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:25.186] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:26.785] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:27.871] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:30.599] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:31.691] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:33.307] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:35.422] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:36.922] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:37.966] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:39.484] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:40.838] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:41.846] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:43.284] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:45.078] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:46.245] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:47.580] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:49.129] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:51.307] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:52.779] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:53.820] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:55.007] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:31:56.542] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:00.863] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:07.033] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:08.442] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:09.797] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:11.241] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:21.082] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:22.555] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:23.676] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:24.720] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:25.938] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:27.486] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:29.167] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:30.467] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:31.806] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:32.881] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:34.743] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:32:39.444] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:33:13.935] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:35:54.195] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:35:55.423] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:35:56.609] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:35:58.342] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:35:59.713] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:01.107] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:02.847] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:04.427] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:06.984] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:08.524] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:09.605] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:11.632] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:36:14.215] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:04.547] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:06.276] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:24.662] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:25.983] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:33.636] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:34.877] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:52.911] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:54.094] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:55.324] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:56.710] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:37:59.419] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:00.644] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:13.282] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:16.236] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:17.510] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:22.134] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:38:24.287] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:02.889] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:05.116] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:07.018] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:08.754] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:11.181] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:31.012] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:33.317] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:35.056] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:41.560] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:39:44.299] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:09.744] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:11.191] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:12.477] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:14.789] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:17.395] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:19.340] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:46.406] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:47.768] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:42:48.844] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:43:55.980] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:43:57.202] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:43:58.523] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:43:59.795] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:35.438] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:36.566] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:37.673] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:39.162] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:40.988] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:43.332] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:44:45.081] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:22.569] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:26.316] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:27.386] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:28.743] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:30.361] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:32.896] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:34.514] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:39.072] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:40.223] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:48.968] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:50.431] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:47:52.999] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:02.650] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:08.348] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:09.464] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:21.504] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:23.321] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:42.095] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:44.256] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:45.616] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:47.252] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:48.957] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:55.639] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:48:57.998] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:04.259] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:05.440] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:10.184] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:11.281] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:21.459] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:22.497] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:29.537] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:30.815] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:31.849] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:33.887] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:35.390] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:36.617] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:37.933] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:39.143] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:40.687] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:49.360] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:49:50.391] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:30.140] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:31.446] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:46.085] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:48.201] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:50.833] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:52.958] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:54.661] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:57.646] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:50:59.845] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:00.945] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:02.102] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:03.218] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:05.848] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:06.923] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:08.847] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:10.554] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:12.627] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:13.916] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:15.296] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:51:16.349] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:01.643] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:06.817] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:07.984] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:16.593] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:21.780] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:22.989] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:26.800] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:27.886] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:37.310] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:39.283] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:41.034] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:42.938] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:44.085] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:45.329] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:46.763] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:47.807] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:49.209] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:50.930] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:52:52.013] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:17.471] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:18.709] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:49.681] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:52.011] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:54.945] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:54:59.905] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:55:01.000] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:55:02.015] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:55:03.564] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:55:05.695] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:55:42.351] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:57:44.220] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:57:45.353] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:00.012] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:01.329] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:09.378] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:11.330] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:17.013] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:18.125] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:21.091] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:24.980] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:26.546] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:28.768] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:30.533] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:31.930] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:34.093] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:35.532] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:36.754] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:39.659] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:41.640] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:43.820] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:45.550] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:46.621] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:48.179] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:52.138] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:54.133] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:58:55.945] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:00.111] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:01.865] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:06.795] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:07.857] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:19.369] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:21.482] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:22.540] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:23.938] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-02 23:59:25.105] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-03 00:00:33.238] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-03 00:00:36.468] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-03 00:01:21.562] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)
+[2019-05-03 00:01:22.780] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+	at emitNone (events.js:106:13)
+	at process.emit (events.js:208:7)
+	at Signal.wrap.onsignal (internal/process.js:208:44)

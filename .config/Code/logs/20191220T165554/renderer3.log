@@ -1,0 +1,342 @@
+[2019-12-20 16:55:55.924] [renderer3] [info] no standard startup: not just one window
+[2019-12-20 16:58:31.407] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:31.708] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:31.862] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:32.640] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:32.886] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:33.010] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:33.122] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:33.447] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:33.531] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:33.605] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:37.341] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:38.318] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:38.520] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:38.597] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:40.299] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:40.498] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:40.595] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:40.696] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:40.733] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:41.134] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:43.105] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:43.457] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:44.431] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:44.748] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:44.906] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:45.544] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:45.806] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:45.878] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:46.039] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:46.223] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json
+[2019-12-20 16:58:46.317] [renderer3] [error] Error: File not found (file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json)
+    at new t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1384:653)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3286:514
+    at Object.v [as _notify] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:155:302)
+    at Object.enter (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:158:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:159:419)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:200:243
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:291:919
+    at /usr/share/code/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21) file:///usr/share/code/resources/app/extensions/html/snippets/html.snippets.json

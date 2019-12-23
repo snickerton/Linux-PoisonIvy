@@ -1,0 +1,52 @@
+[2019-12-20 15:40:48.169] [sharedprocess] [info] main {"machineId":"f82d17830a257e134dd710e677e39d2d0442f7abbce9e69b084c73ad5f279d30"}
+[2019-12-20 15:40:48.216] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:48.234] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:48.235] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:48.238] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:48.296] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 15:40:48.296] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 15:40:48.299] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 15:40:49.243] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:58.924] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:58.994] [sharedprocess] [info] Installing extension: python
+[2019-12-20 15:40:58.999] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:59.470] [sharedprocess] [info] Scanned user extensions: 2
+[2019-12-20 15:40:59.541] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 15:41:00.635] [sharedprocess] [info] Downloaded extension: python /tmp/e2543b3f-b4c6-470b-a9f9-8b9a04425ebc
+[2019-12-20 15:41:01.555] [sharedprocess] [info] Extracted extension to /home/snickerton/.vscode/extensions/.ms-python.python-2019.1.0: ms-python.python-2019.1.0
+[2019-12-20 15:41:01.555] [sharedprocess] [info] Renamed to /home/snickerton/.vscode/extensions/ms-python.python-2019.1.0
+[2019-12-20 15:41:01.555] [sharedprocess] [info] Installation completed. ms-python.python-2019.1.0
+[2019-12-20 15:41:01.581] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-12-20 15:41:01.708] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 15:41:01.759] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 15:41:28.174] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-20 15:45:49.308] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 15:50:46.338] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 15:55:46.385] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:00:46.407] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:38.795] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:38.813] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:38.836] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:38.977] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 16:02:38.987] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 16:02:41.345] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:41.473] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:02:41.504] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 16:07:41.385] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:12:41.442] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:17:41.481] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:22:41.495] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:27:41.515] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:32:41.565] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:37:41.624] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:42:58.001] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:47:58.044] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:52:58.079] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:55:56.250] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:55:56.280] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:55:56.293] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 16:55:56.507] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 16:55:56.522] [sharedprocess] [info] Scanned system extensions: 71
+[2019-12-20 16:55:58.779] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 17:00:58.837] [sharedprocess] [info] Scanned user extensions: 3
+[2019-12-20 17:05:58.879] [sharedprocess] [info] Scanned user extensions: 3

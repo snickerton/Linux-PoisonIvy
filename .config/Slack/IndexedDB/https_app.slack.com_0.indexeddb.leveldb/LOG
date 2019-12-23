@@ -1,0 +1,51 @@
+2019/10/23-15:32:01.997 2e83 Reusing MANIFEST /home/snickerton/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/23-15:32:01.997 2e83 Recovering log #28
+2019/10/23-15:32:02.014 2e83 Reusing old log /home/snickerton/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000028.log 
+2019/10/23-15:32:35.662 3482 Level-0 table #32: started
+2019/10/23-15:32:36.393 3482 Level-0 table #32: 1240010 bytes OK
+2019/10/23-15:32:36.400 3482 Delete type=0 #28
+2019/10/23-16:03:54.919 3482 Level-0 table #34: started
+2019/10/23-16:03:55.659 3482 Level-0 table #34: 1351372 bytes OK
+2019/10/23-16:03:55.665 3482 Delete type=0 #31
+2019/10/23-17:51:40.562 3482 Level-0 table #36: started
+2019/10/23-17:51:40.584 3482 Level-0 table #36: 1277363 bytes OK
+2019/10/23-17:51:40.588 3482 Delete type=0 #33
+2019/10/23-17:51:40.589 3482 Compacting 4@0 + 1@1 files
+2019/10/23-17:51:40.626 3482 Generated table #37@0: 8 keys, 680765 bytes
+2019/10/23-17:51:40.626 3482 Compacted 4@0 + 1@1 files => 680765 bytes
+2019/10/23-17:51:40.629 3482 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/23-17:51:40.629 3482 Delete type=2 #36
+2019/10/23-17:51:40.630 3482 Delete type=2 #29
+2019/10/23-17:51:40.630 3482 Delete type=2 #34
+2019/10/23-17:51:40.630 3482 Delete type=2 #32
+2019/10/23-17:51:40.630 3482 Delete type=2 #27
+2019/11/01-18:11:05.235 3482 Level-0 table #39: started
+2019/11/01-18:11:05.281 3482 Level-0 table #39: 1415431 bytes OK
+2019/11/01-18:11:05.434 3482 Delete type=0 #35
+2019/11/01-18:38:44.960 3482 Level-0 table #41: started
+2019/11/01-18:38:44.983 3482 Level-0 table #41: 1427847 bytes OK
+2019/11/01-18:38:44.986 3482 Delete type=0 #38
+2019/11/01-18:39:51.899 3482 Level-0 table #43: started
+2019/11/01-18:39:52.687 3482 Level-0 table #43: 1424598 bytes OK
+2019/11/01-18:39:52.694 3482 Delete type=0 #40
+2019/11/01-19:38:46.676 3482 Level-0 table #45: started
+2019/11/01-19:38:46.701 3482 Level-0 table #45: 1441606 bytes OK
+2019/11/01-19:38:46.709 3482 Delete type=0 #42
+2019/11/01-19:38:46.711 3482 Compacting 4@0 + 1@1 files
+2019/11/01-19:38:46.774 3482 Generated table #46@0: 8 keys, 721941 bytes
+2019/11/01-19:38:46.774 3482 Compacted 4@0 + 1@1 files => 721941 bytes
+2019/11/01-19:38:46.777 3482 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/01-19:38:46.777 3482 Delete type=2 #37
+2019/11/01-19:38:46.777 3482 Delete type=2 #41
+2019/11/01-19:38:46.777 3482 Delete type=2 #43
+2019/11/01-19:38:46.778 3482 Delete type=2 #45
+2019/11/01-19:38:46.778 3482 Delete type=2 #39
+2019/11/01-20:38:47.716 3482 Level-0 table #48: started
+2019/11/01-20:38:48.509 3482 Level-0 table #48: 1525484 bytes OK
+2019/11/01-20:38:48.516 3482 Delete type=0 #44
+2019/11/01-22:38:48.552 3482 Level-0 table #50: started
+2019/11/01-22:38:48.576 3482 Level-0 table #50: 1362759 bytes OK
+2019/11/01-22:38:48.579 3482 Delete type=0 #47
+2019/11/09-07:45:15.607 3482 Level-0 table #52: started
+2019/11/09-07:45:15.626 3482 Level-0 table #52: 1362659 bytes OK
+2019/11/09-07:45:15.632 3482 Delete type=0 #49

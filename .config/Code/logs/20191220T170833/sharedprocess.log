@@ -1,0 +1,14 @@
+[2019-12-20 17:08:36.765] [sharedprocess] [info] main {"machineId":"f82d17830a257e134dd710e677e39d2d0442f7abbce9e69b084c73ad5f279d30","windowId":2}
+[2019-12-20 17:08:38.311] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-12-20 17:08:38.313] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-12-20 17:08:40.087] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/f19702e9-64a8-4a28-ae9f-34bb58dcbf02
+[2019-12-20 17:08:43.836] [sharedprocess] [info] Extracted extension to /home/snickerton/.vscode/extensions/.ms-vscode.cpptools-0.26.2: ms-vscode.cpptools
+[2019-12-20 17:08:43.837] [sharedprocess] [info] Renamed to /home/snickerton/.vscode/extensions/ms-vscode.cpptools-0.26.2
+[2019-12-20 17:08:43.843] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-12-20 17:08:43.864] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-12-20 17:08:44.612] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/26d68f67-9864-48e3-842a-567022b7049c
+[2019-12-20 17:08:48.728] [sharedprocess] [info] Extracted extension to /home/snickerton/.vscode/extensions/.ms-python.python-2019.11.50794: ms-python.python
+[2019-12-20 17:08:48.728] [sharedprocess] [info] Renamed to /home/snickerton/.vscode/extensions/ms-python.python-2019.11.50794
+[2019-12-20 17:08:48.734] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-12-20 17:08:48.771] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-12-20 17:09:16.755] [sharedprocess] [info] Starting to clean up unused language packs.

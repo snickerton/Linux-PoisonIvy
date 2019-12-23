@@ -1,0 +1,22 @@
+{"level":"info","message":"Application started.","timestamp":"2018-09-08T08:12:09.424Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-08T08:12:09.956Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-09-08T23:03:59.358Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-08T23:04:00.137Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-09-08T23:11:31.595Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-09-09T00:19:28.942Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-09T00:19:29.726Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-09-09T00:36:11.478Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-09-11T11:46:43.755Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-11T11:46:44.549Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-09-11T21:40:32.993Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-11T21:40:33.621Z"}
+{"level":"error","message":"################### !! Update server down !! ##################","timestamp":"2018-09-11T21:40:33.958Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-09-18T02:47:13.769Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-09-18T02:47:14.508Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-09-18T09:11:58.908Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-10-17T05:32:23.857Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2018-10-17T05:32:24.636Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-10-17T06:31:16.539Z"}
+{"level":"info","message":"Application started.","timestamp":"2019-02-02T00:56:44.808Z"}
+{"level":"error","message":"Failed to load bonjour with error: {}","timestamp":"2019-02-02T00:56:45.576Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2019-02-02T00:58:23.078Z"}
