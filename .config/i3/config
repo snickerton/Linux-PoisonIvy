@@ -25,7 +25,7 @@ exec_always --no-startup-id compton --backend glx --vsync opengl --config ~/.con
 exec_always feh --bg-scale ~/Pictures/victor-BiGS_w9t7FU-unsplash.jpg
 exec_always --no-startup-id bash ~/.config/polybar/launch.sh
 
-exec_always --no-startup-id i3-msg "workspace ; exec urxvt -e bash -c 'neofetch && bash'" 
+exec_always --no-startup-id i3-msg "workspace 10:; exec urxvt -e bash -c 'neofetch && bash'" 
 
 exec_always --no-startup-id xinput set-prop 14 282 1
 exec_always --no-startup-id xinput set-prop 14 290 1
@@ -36,16 +36,16 @@ exec_always --no-startup-id xinput set-prop 14 290 1
 set $mod Mod1
 set $sup Mod4
 set $terminal tabbed -c urxvt -embed
-set $workspace1  
-set $workspace2  
-set $workspace3  
-set $workspace4  
-set $workspace5  5
-set $workspace6  6
-set $workspace7  7
-set $workspace8  8
-set $workspace9  
-set $workspace0  
+set $workspace1  "1:"
+set $workspace2  "2:"
+set $workspace3  "3:"
+set $workspace4  "4:"
+set $workspace5  "5:5"
+set $workspace6  "6:6"
+set $workspace7  "7:7"
+set $workspace8  "8:8"
+set $workspace9  "9:"
+set $workspace0  "10:"
 # }}}
 
 

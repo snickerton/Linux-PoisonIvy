@@ -57,6 +57,8 @@ offset-x = 0%
 radius = 0.0
 fixed-center = true
 
+index-sort = true
+
 background = ${colors.background}
 foreground = ${colors.foreground}
 
@@ -133,6 +135,8 @@ exec = ~/.config/polybar/mpris.sh
 [module/i3]
 
 type = internal/i3
+
+
 ;
 ;strip-wsnumbers = true
 ;
@@ -148,6 +152,8 @@ label-unfocused-background = ${colors.background-unf}
 ;label-visible-underline = #555555
 ;label-visible-padding = 4
 
+index-sort = true
+strip-wsnumbers = true
 
 ; Available tokens:
 ;   %mode%
