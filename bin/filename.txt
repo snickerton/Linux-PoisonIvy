@@ -1,0 +1,35 @@
+Script started on 2019-12-23 07:16:19-0600
+[0mBringing machine 'default' up with 'libvirt' provider...[0m
+#<Thread:0x000055fd1567b138@/usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/batch_action.rb:71 run> terminated with exception (report_on_exception is true):
+[1mTraceback[m (most recent call last):
+	25: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/batch_action.rb:82:in `block (2 levels) in run'
+	24: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/machine.rb:188:in `action'
+	23: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/machine.rb:188:in `call'
+	22: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/environment.rb:592:in `lock'
+	21: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/machine.rb:202:in `block in action'
+	20: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/machine.rb:227:in `action_raw'
+	19: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/runner.rb:66:in `run'
+	18: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/util/busy.rb:19:in `busy'
+	17: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/runner.rb:66:in `block in run'
+	16: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builder.rb:116:in `call'
+	15: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:34:in `call'
+	14: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builtin/config_validate.rb:25:in `call'
+	13: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:34:in `call'
+	12: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builtin/box_check_outdated.rb:31:in `call'
+	11: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:34:in `call'
+	10: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builtin/call.rb:52:in `call'
+	 9: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builder.rb:170:in `to_app'
+	 8: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/builder.rb:170:in `new'
+	 7: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:20:in `initialize'
+	 6: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:20:in `map'
+	 5: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:20:in `block in initialize'
+	 4: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:90:in `finalize_action'
+	 3: from /usr/share/rubygems-integration/all/gems/vagrant-2.0.2/lib/vagrant/action/warden.rb:90:in `new'
+	 2: from /usr/share/rubygems-integration/all/gems/vagrant-libvirt-0.0.43/lib/vagrant-libvirt/action/create_networks.rb:26:in `initialize'
+	 1: from /usr/share/rubygems-integration/all/gems/vagrant-libvirt-0.0.43/lib/vagrant-libvirt/driver.rb:40:in `connection'
+/usr/share/rubygems-integration/all/gems/vagrant-libvirt-0.0.43/lib/vagrant-libvirt/driver.rb:43:in `rescue in connection': [1mError while connecting to libvirt: Error making a connection to libvirt URI qemu:///system?no_verify=1&keyfile=/home/snickerton/.ssh/id_rsa: ([1;4mVagrantPlugins::ProviderLibvirt::Errors::FogLibvirtConnectionError[m[1m)
+Call to virConnectOpen failed: Failed to connect socket to '/var/run/libvirt/libvirt-sock': No such file or directory
+[m[0;31mError while connecting to libvirt: Error making a connection to libvirt URI qemu:///system?no_verify=1&keyfile=/home/snickerton/.ssh/id_rsa:
+Call to virConnectOpen failed: Failed to connect socket to '/var/run/libvirt/libvirt-sock': No such file or directory[0m
+
+Script done on 2019-12-23 07:16:20-0600
